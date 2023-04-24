@@ -8,4 +8,4 @@ permalink: /people/
 * PhD student Zebin Ren
 * [PhD student Krijn Doekemeijer](https://krien.github.io/)
 * [Nick Tehrany](https://nicktehrany.github.io/)
-* [Peter-Jan Gootzen](https://peter-jan.dev/)
+* [Msc. Peter-Jan Gootzen](https://peter-jan.dev/)
