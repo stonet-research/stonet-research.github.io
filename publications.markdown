@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Stonet publications
+title: StoNet publications
 permalink: /publications/
 ---

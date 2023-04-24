@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stonet team
+title: StoNet team
 permalink: /people/
 ---
 
@@ -8,3 +8,4 @@ permalink: /people/
 * PhD student Zebin Ren
 * [PhD student Krijn Doekemeijer](https://krien.github.io/)
 * [Nick Tehrany](https://nicktehrany.github.io/)
+* [Peter-Jan Gootzen](https://peter-jan.dev/)

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stonet research
+title: StoNet research
 permalink: /research/
 ---
 
