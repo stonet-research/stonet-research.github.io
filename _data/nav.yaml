@@ -1,0 +1,12 @@
+# rendered from bottom to the top 
+- name: "About"
+  link: "/about"
+
+- name: "People"
+  link: "/people"
+
+- name: "Publications"
+  link: "/publications"
+
+- name: "Research"
+  link: "/research"

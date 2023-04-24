@@ -1,0 +1,22 @@
+title: Stonet Research
+description: >- # this means to ignore newlines until "baseurl:"
+  Stonet-research is a research group from the VU Amsterdam that is researching storage and network technologies. 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://github.com/stonet-research" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+github_username: stonet-research
+
+markdown: kramdown
+
+# Build settings
+# theme: minima
+# plugins:
+#  - jekyll-feed
+
+footer: yes
+footer_url: "https://github.com/ankitsultana/researcher"
+footer_text: "Jekyll theme inspired by researcher"
+
+sass:
+  style: compressed
+  sass_dir: _sass
