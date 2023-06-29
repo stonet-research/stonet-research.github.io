@@ -24,6 +24,13 @@ StoNet-research (Storage/Network research) is a Computer Science research team a
    /publications/publications
 
 .. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Teaching
+
+   /teaching/teaching
+
+.. toctree::
    :maxdepth: 1
    :hidden:
    :caption: People

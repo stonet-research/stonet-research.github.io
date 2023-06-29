@@ -20,6 +20,9 @@ python -m http.server
 # Copy the websites to docs
 rm -r docs/*
 cp -r _build/html/* docs
+touch docs/.nojekyll
+git add *
+git commit
 ```
 
 Then the website is available at localhost:8000
