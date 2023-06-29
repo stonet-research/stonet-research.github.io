@@ -6,7 +6,7 @@
 StoNet Research
 ==========================================
 
-StoNet-research (Storage/Network research) is a Computer Science research team at the `VU Amsterdam <https://vu.nl/en>`_. We at StoNet are a part of the `Massivizing Computer Systems (AtLarge) <https://atlarge-research.com/>`_ team, a team that specializes in making computer systems scalable, reliable, performant, and efficient for everyone. The StoNet team in particular investigates how to massivize the network and storage aspects of computer systems. For more about us look at :doc:`about <sphinx:about/about>`, what we are currently working at [research](/research), and our publications at [publications](/publications). 
+StoNet-research (Storage/Network research) is a Computer Science research team at the `VU Amsterdam <https://vu.nl/en>`_. We at StoNet are a part of the `Massivizing Computer Systems (AtLarge) <https://atlarge-research.com/>`_ team, a team that specializes in making computer systems scalable, reliable, performant, and efficient for everyone. The StoNet team in particular investigates how to massivize the network and storage aspects of computer systems. For more about us look at :ref:`about`, what we are currently working at :ref:`research`, and our publications at :ref:`publications`. 
 
 
 .. toctree::

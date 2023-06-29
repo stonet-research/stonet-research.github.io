@@ -15,6 +15,7 @@ author = 'stonet-group'
 
 extensions = [
     'sphinx_rtd_theme',
+    'sphinx.ext.autosectionlabel'
 ]
 
 
