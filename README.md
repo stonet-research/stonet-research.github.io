@@ -17,6 +17,9 @@ build and server:
 make html
 cd _build/html
 python -m http.server
+# Copy the websites to docs
+rm -r docs/*
+cp -r _build/html/* docs
 ```
 
 Then the website is available at localhost:8000
