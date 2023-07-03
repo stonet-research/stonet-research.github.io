@@ -4,5 +4,39 @@ People
 * `dr. ir. Animesh Trivedi <https://animeshtrivedi.github.io/>`_
 * `PhD student Zebin Ren <https://zebinren.github.io/>`_
 * `PhD student Krijn Doekemeijer <https://krien.github.io/>`_
-* `Nick Tehrany <https://nicktehrany.github.io/>`_
+* `Msc. Nick Tehrany <https://nicktehrany.github.io/>`_
 * `Msc. Peter-Jan Gootzen <https://peter-jan.dev/>`_
+
+
+.. list-table::
+   :class: borderless
+   
+
+   * - .. figure:: photos/animesh.png
+        :width: 200
+
+        dr. ir. `Animesh Trivedi <https://animeshtrivedi.github.io/>`_
+        
+     - 
+    
+   * - .. figure:: photos/zebin.png
+        :width: 200
+        
+        PhD student `Zebin Ren <https://zebinren.github.io/>`_
+
+     - .. figure:: photos/krijn.jpeg
+        :width: 200
+        
+        PhD student `Krijn Doekemeijer <https://krien.github.io/>`_
+
+   * - .. figure:: photos/nick.jpeg
+        :width: 200
+
+        Msc. `Nick Tehrany <https://nicktehrany.github.io/>`_
+
+     - .. figure:: photos/peter-jan.jpeg
+        :width: 200
+        
+        Msc. `Peter-Jan Gootzen <https://peter-jan.dev/>`_
+     
+
