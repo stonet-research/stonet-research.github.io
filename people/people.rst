@@ -13,29 +13,29 @@ People
    
 
    * - .. figure:: photos/animesh.png
-        :width: 200
+        :scale: 25%
 
         dr. ir. `Animesh Trivedi <https://animeshtrivedi.github.io/>`_
         
      - 
     
    * - .. figure:: photos/zebin.png
-        :width: 200
+        :scale: 25%
         
         PhD student `Zebin Ren <https://zebinren.github.io/>`_
 
      - .. figure:: photos/krijn.jpeg
-        :width: 200
+        :scale: 25%
         
         PhD student `Krijn Doekemeijer <https://krien.github.io/>`_
 
    * - .. figure:: photos/nick.jpeg
-        :width: 200
+        :scale: 25%
 
         Msc. `Nick Tehrany <https://nicktehrany.github.io/>`_
 
      - .. figure:: photos/peter-jan.jpeg
-        :width: 200
+        :scale: 25% 
         
         Msc. `Peter-Jan Gootzen <https://peter-jan.dev/>`_
      
