@@ -11,8 +11,9 @@ zns-tools
 ----------------------------
 
 A set of tools for understanding/tracing ZNS devices.
-`code <https://github.com/stonet-research/zns-tools>`_
-
+* `code <https://github.com/stonet-research/zns-tools>`_
+* `paper <https://arxiv.org/abs/2307.11860>`_
+_
 TropoDB
 ----------------------------
 
