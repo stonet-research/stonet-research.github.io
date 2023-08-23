@@ -5,6 +5,7 @@ make html
 # Remove the old webpages
 rm -rf docs/*
 # copy the new webpages to docs
+mkdir -p docs
 cp -r _build/html/* docs
 # .nojekyll is need to prevent the github pages using jekyll mode
 touch .nojekyll
