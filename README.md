@@ -7,8 +7,7 @@ This site is built using Sphinx with read-the-docs theme.
 Install packages
 
 ```bash
-pip install sphinx
-pip install sphinx_rtd_theme
+pip install -r requirements.txt
 ```
 
 ### build and start a local server
@@ -25,14 +24,7 @@ Then the website is available at localhost:8000
 ### Build and make it accessible to github pages
 
 ```bash
-# build the html
-make html
-# Remove the old webpages
-rm -r docs/*
-# copy the new webpages to docs
-cp -r _build/html/* docs
-# .nojekyll is need to prevent the github pages using jekyll mode
-touch docs/.nojekyll
+./build.sh
 # commit and push
 git add *
 git commit -m 'commit message'
