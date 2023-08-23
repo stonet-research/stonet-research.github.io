@@ -24,11 +24,12 @@ Then the website is available at localhost:8000
 ### Build and make it accessible to github pages
 
 ```bash
-./build.sh
 # commit and push
 git add *
 git commit -m 'commit message'
-git push origin branch-name
+git push
+
+# If it does not succeed please check https://github.com/stonet-research/stonet-research.github.io/actions or the `Deployments` branch.
 ```
 
 ## How to make changes
