@@ -18,6 +18,8 @@ apt-get install python3-sphinx
 make html
 cd _build/html
 python -m http.server
+# or python3
+python3 -m http.server
 ```
 
 Then the website is available at localhost:8000
