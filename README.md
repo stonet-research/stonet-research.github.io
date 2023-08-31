@@ -8,6 +8,7 @@ Install packages
 
 ```bash
 pip install -r requirements.txt
+apt-get install python3-sphinx
 ```
 
 ### build and start a local server
