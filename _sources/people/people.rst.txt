@@ -39,6 +39,11 @@ People
         
         Msc. `Peter-Jan Gootzen <https://peter-jan.dev/>`_
      
+   * - .. figure:: photos/wiebe.png
+         :scale: 25%
 
+         Msc. Wiebe Breukelen
+
+      -
 ..
     NOTE: The link at the start of the page and under the photos should be STRICTLY THE SAME. Or it does not compile.
