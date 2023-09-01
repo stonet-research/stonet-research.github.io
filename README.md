@@ -73,6 +73,11 @@ To reference the pdf from within `publications.rst` use:
 :download:`pdf_name <pdfs/pdf_name>`
 ``` 
 
+### How to add people
+
+1. Create a `.png` image of 512x512 and copy it to `people/photos`.
+2. Add the person to `people/people.rst`, use the format "role name". 
+
 ## Sources
 
 [sphinx doc](https://www.sphinx-doc.org/en/master/index.html)
