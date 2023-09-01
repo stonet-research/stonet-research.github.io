@@ -19,7 +19,7 @@ A performance Characterization of Modern Storage Stacks: POSIX I/O, libaio, SPDK
 PMicroProfile
 ----------------------------
 PMicroProfile: A Micro-Architecture Aware Persistent Memory Profiling Framework.
-`PMicroProfile: A Micro-Architecture Aware Persistent Memory Profiling Framework  <PMicroProfile: A Micro-Architecture Aware Persistent Memory Profiling Framework >`_
+`PMicroProfile: A Micro-Architecture Aware Persistent Memory Profiling Framework <https://github.com/stonet-research/PMicroProfile>`_
 
 Multi-Streamed F2FS (msF2FS)
 ----------------------------
