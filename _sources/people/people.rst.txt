@@ -4,7 +4,7 @@ People
 Assistant Professors:
    * `dr. ir. Animesh Trivedi <https://animeshtrivedi.github.io/>`_
 
-PhD students:
+PhD Students:
    * `Zebin Ren <https://zebinren.github.io/>`_
    * `Krijn Doekemeijer <https://krien.github.io/>`_
 
