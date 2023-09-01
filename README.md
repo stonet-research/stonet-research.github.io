@@ -50,13 +50,13 @@ For example
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Research
+   :caption: Research Projects
 
-   /research/research
+   /research_projects/research_projects
 
 ```
 
-is the 'Research' tab and the contents are in /research/research.
+is the 'Research Projects' tab and the contents are in /research_projects/research_projects.
 
 The source code of read the docs is a good example:
 
