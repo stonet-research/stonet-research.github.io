@@ -63,6 +63,16 @@ The source code of read the docs is a good example:
 [read the docs tutorial](https://docs.readthedocs.io/en/stable/tutorial/)
 [corresponding source code](https://github.com/readthedocs/readthedocs.org/blob/c5ce36eefa5c54eeb66497a01c7e091afd56bb76/docs/user/tutorial/index.rst)
 
+### How to add publications
+
+1. Copy your pdf to `publications/pdfs` (if available)
+2. Add a new entry to `publications/publications.rst` please add it to corresponding year and use the format "paper name, authors (year) conference (conference link), location. PDF OR DOI.  
+
+To reference the pdf from within `publications.rst` use:
+```
+:download:`pdf_name <pdfs/pdf_name>`
+``` 
+
 ## Sources
 
 [sphinx doc](https://www.sphinx-doc.org/en/master/index.html)
