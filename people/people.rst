@@ -2,21 +2,22 @@ People
 ==========
 
 Assistant Professors:
-   * `dr. ir. Animesh Trivedi <https://animeshtrivedi.github.io/>`_
+   * `ㅤdr. ir. Animesh Trivedi <https://animeshtrivedi.github.io/>`_
 
 PhD Students:
-   * `Zebin Ren <https://zebinren.github.io/>`_
-   * `Krijn Doekemeijer <https://krien.github.io/>`_
+   * `ㅤ Zebin Ren <https://zebinren.github.io/>`_
+   * `ㅤ Krijn Doekemeijer <https://krien.github.io/>`_
 
 Research Assistants:
-   * `Msc. Nick Tehrany <https://nicktehrany.github.io/>`_
+   * `ㅤ Nick Tehrany <https://nicktehrany.github.io/>`_
 
 Master Students:
-   * `Peter-Jan Gootzen <https://peter-jan.dev/>`_
-   * Wiebe Breukelen
+   * `ㅤ Peter-Jan Gootzen <https://peter-jan.dev/>`_
+   * `ㅤ Wiebe Breukelen <TBD>`_
 
 Bachelor Students:
-   * Nicola Vermeulen
+   * `ㅤ Nicola Vermeulen <TBD>`_
+
 
 .. list-table::
    :class: borderless
@@ -32,28 +33,39 @@ Bachelor Students:
    * - .. figure:: photos/zebin.png
          :scale: 25%
 
-         Zebin Ren `Zebin Ren <https://zebinren.github.io/>`_
+         ㅤ `Zebin Ren <https://zebinren.github.io/>`_
 
      - .. figure:: photos/krijn.jpeg
          :scale: 25%
       
-         PhD student `Krijn Doekemeijer <https://krien.github.io/>`_
+         ㅤ `Krijn Doekemeijer <https://krien.github.io/>`_
 
    * - .. figure:: photos/nick.jpeg
          :scale: 25%
 
-         Msc. `Nick Tehrany <https://nicktehrany.github.io/>`_
+         ㅤ `Nick Tehrany <https://nicktehrany.github.io/>`_
 
      - .. figure:: photos/peter-jan.jpeg
          :scale: 25% 
         
-         Msc. `Peter-Jan Gootzen <https://peter-jan.dev/>`_
+         ㅤ `Peter-Jan Gootzen <https://peter-jan.dev/>`_
      
    * - .. figure:: photos/wiebe.png
          :scale: 25%
 
-         Msc. Wiebe Breukelen
+         ㅤ `Wiebe Breukelen <TBD>`_
 
-     -
+     - .. figure:: photos/nicola.png
+         :scale: 25% 
+        
+         ㅤ `Nicola Vermeulen <TBD>`_
+
 ..
     NOTE: The link at the start of the page and under the photos should be STRICTLY THE SAME. Or it does not compile.
+    I don't know the reason, but here is the only way I found to make it work:
+    If you add a new people in the list:
+    `PREFIX NAME <LINK>`_
+    Then the table:
+    1. The caption should be the same as the link, which is 'PREFIX NAME'.
+    2. Not all of the caption 'PREFIX NAME' should be the name of the link, at lest the first word is not in the caption, such as PREFIX `NAME <LINK>`_
+    3. I use the empty space emoji as the prefix.
