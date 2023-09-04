@@ -10,6 +10,11 @@ We are working towards making this list complete, meanwhile please see Animesh's
     Krijn Doekemeijer, Nick Tehrany, Balakrishnan Chandrasekaran, Matias Bjørling, Animesh Trivedi (2023) 
     2023 IEEE International Conference on Cluster Computing (`CLUSTER <https://clustercomp.org/2023/>`_).
     :download:`2023-cluster-zns-performance-kdoekemeijer.pdf <pdfs/2023-cluster-zns-performance-kdoekemeijer.pdf>`.
+  * **Performance Characterization of Modern Storage Stacks: POSIX I/O, libaio, SPDK, and io_uring**,
+    Zebin Ren and Animesh Trivedi,
+    In 3rd Workshop on Challenges and Opportunities of Efficient and Performant Storage Systems (`CHEOPS'23 <https://cheops-workshop.github.io/>`_), May 8, 2023, Rome, Italy.
+    `https://dl.acm.org/doi/abs/10.1145/3578353.3589545 <https://dl.acm.org/doi/abs/10.1145/3578353.3589545>`_
+
 
 *************
 2022
