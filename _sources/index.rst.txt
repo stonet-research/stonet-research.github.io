@@ -12,6 +12,11 @@ a team that specializes in making computer systems scalable, reliable, performan
 The StoNet team in particular investigates how to massivize the network and storage aspects of computer systems. 
 For more about us look at :ref:`about`, what we are currently working at :ref:`research projects`, and our publications at :ref:`publications`. 
 
+.. figure:: people/photos/group-in-june-2023.jpg
+   :alt: Group Photo
+   :align: center
+
+   Group in June 2023.
 
 .. toctree::
    :maxdepth: 2
