@@ -55,7 +55,7 @@ Bachelor Students:
 
          ㅤ `Wiebe Breukelen <TBD>`_
 
-     - .. figure:: photos/nicola.png
+     - .. figure:: photos/placeholder.png
          :scale: 25% 
         
          ㅤ `Nicola Vermeulen <TBD>`_
