@@ -22,6 +22,7 @@ Bachelor Students:
    * ㅤ Nicola Vermeulen
    * ㅤ Richard Brežák
    * ㅤ Trix Taiclet
+   * ㅤ Daniel Roesch 
 
 .. list-table::
    :class: borderless
@@ -89,7 +90,10 @@ Bachelor Students:
 
          ㅤ Trix Taiclet
 
-     - 
+     - .. figure:: photos/daniel.png
+         :scale: 25%
+
+         ㅤ Daniel Roesch
 
 ..
     NOTE: The link at the start of the page and under the photos should be STRICTLY THE SAME. Or it does not compile.
