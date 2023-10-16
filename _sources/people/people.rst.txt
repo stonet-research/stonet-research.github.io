@@ -13,11 +13,16 @@ Research Assistants:
 
 Master Students:
    * `ㅤ Peter-Jan Gootzen <https://peter-jan.dev/>`_
-   * `ㅤ Wiebe Breukelen <TBD>`_
+   * ㅤ Wiebe Breukelen
+   * ㅤ Niels de Waal
+   * ㅤ Brynjar Ingimarsson
+   * ㅤ Sudarsan Sivakumar
 
 Bachelor Students:
-   * `ㅤ Nicola Vermeulen <TBD>`_
-
+   * ㅤ Nicola Vermeulen
+   * ㅤ Richard Brežák
+   * ㅤ Trix Taiclet
+   * ㅤ Daniel Roesch 
 
 .. list-table::
    :class: borderless
@@ -53,12 +58,42 @@ Bachelor Students:
    * - .. figure:: photos/wiebe.png
          :scale: 25%
 
-         ㅤ `Wiebe Breukelen <TBD>`_
+         ㅤ Wiebe Breukelen
+
+     - .. figure:: photos/niels.jpeg
+         :scale: 25% 
+        
+         ㅤ Niels de Waal
+
+   * - .. figure:: photos/placeholder.png
+         :scale: 25%
+
+         ㅤ Brynjar Ingimarsson
 
      - .. figure:: photos/placeholder.png
          :scale: 25% 
         
-         ㅤ `Nicola Vermeulen <TBD>`_
+         ㅤ Sudarsan Sivakumar
+
+   * - .. figure:: photos/placeholder.png
+         :scale: 25%
+
+         ㅤ Nicola Vermeulen
+
+     - .. figure:: photos/placeholder.png
+         :scale: 25% 
+        
+         ㅤ Richard Brežák
+
+   * - .. figure:: photos/placeholder.png
+         :scale: 25%
+
+         ㅤ Trix Taiclet
+
+     - .. figure:: photos/daniel.png
+         :scale: 25%
+
+         ㅤ Daniel Roesch
 
 ..
     NOTE: The link at the start of the page and under the photos should be STRICTLY THE SAME. Or it does not compile.
