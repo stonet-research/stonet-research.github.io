@@ -4,7 +4,7 @@
   <meta charset="utf-8" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Storage Systems &mdash; StoNet Research  documentation</title>
+  <title>Storage Systems (XM_0092) Homepage &mdash; StoNet Research  documentation</title>
       <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
       <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
   <!--[if lt IE 9]>
@@ -53,7 +53,13 @@
 <p class="caption" role="heading"><span class="caption-text">Teaching</span></p>
 <ul class="current">
 <li class="toctree-l1 current"><a class="reference internal" href="teaching.html">Teaching</a><ul class="current">
-<li class="toctree-l2 current"><a class="current reference internal" href="#">Storage Systems</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Storage Systems (XM_0092) Homepage</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#lecture-slides">Lecture slides</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#practical-work">Practical Work</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#license">License</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#acknowledgement">Acknowledgement</a></li>
+</ul>
+</li>
 <li class="toctree-l2"><a class="reference internal" href="advanced_network_programming.html">Advanced Network Programming</a></li>
 <li class="toctree-l2"><a class="reference internal" href="advanced_topics_in_distributed_systems.html">Advanced Topics in Distributed Systems</a></li>
 </ul>
@@ -87,7 +93,7 @@
   <ul class="wy-breadcrumbs">
       <li><a href="../index.html" class="icon icon-home" aria-label="Home"></a></li>
           <li class="breadcrumb-item"><a href="teaching.html">Teaching</a></li>
-      <li class="breadcrumb-item active">Storage Systems</li>
+      <li class="breadcrumb-item active">Storage Systems (XM_0092) Homepage</li>
       <li class="wy-breadcrumbs-aside">
             <a href="../_sources/teaching/storage_systems.rst.txt" rel="nofollow"> View page source</a>
       </li>
@@ -97,10 +103,116 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
              
-  <section id="storage-systems">
-<h1>Storage Systems<a class="headerlink" href="#storage-systems" title="Link to this heading"></a></h1>
-<p><a class="reference external" href="https://animeshtrivedi.github.io/course-stosys/">Course webpage</a></p>
-<p>Contents to be added.</p>
+  <section id="storage-systems-xm-0092-homepage">
+<h1>Storage Systems (XM_0092) Homepage<a class="headerlink" href="#storage-systems-xm-0092-homepage" title="Link to this heading"></a></h1>
+<p>Storage System is a unique course due to its sole focus on NVM storage and its impact on research and education. We take inspiration from the 2018 <strong>Data Storage Research Vision 2025</strong> report (<a class="reference external" href="https://dl.acm.org/doi/book/10.5555/3316807">https://dl.acm.org/doi/book/10.5555/3316807</a>) which identifies (see section 6.1):</p>
+<p><em>“Many students may only associate storage systems with hard disk drives or a specific file system, which is obviously less attractive compared to, say, self-driving cars. This situation is partly due to the fact that there is no clearly defined course on storage systems in the majority of universities.”</em></p>
+<figure class="align-center" id="id11">
+<a class="reference internal image-reference" href="../_images/storage-memory-continuum.png"><img alt="Group Photo" src="../_images/storage-memory-continuum.png" style="width: 600px;" /></a>
+<figcaption>
+<p><span class="caption-text">The new Storage-Memory Continuum that this course covers.</span><a class="headerlink" href="#id11" title="Link to this image"></a></p>
+</figcaption>
+</figure>
+<section id="lecture-slides">
+<h2>Lecture slides<a class="headerlink" href="#lecture-slides" title="Link to this heading"></a></h2>
+<p>Storage Systems (VU catalogue number XM_0092) is a MSc-level course that is first
+established and offered in 2020. The course covers the rise of Non-Volatile Memory (NVM)
+storage technologies in commodity computing, their impact on system design (architecture, operating system),
+distributed systems, storage services, application designs, and emerging trends (CXL and io_uring).
+We cover the following topics in 2023:</p>
+<ul class="simple">
+<li><p><strong>1. Introduction:</strong> History, HDDs, NAND flash, internal organization, the new triangle of Storage Hierarchy.</p>
+<ul>
+<li><p><a class="reference download internal" download="" href="../_downloads/0a17b834965bd5a51145852048a92a29/2023-stosys-lecture1-introduction.pdf"><code class="xref download docutils literal notranslate"><span class="pre">2023-stosys-lecture1-introduction.pdf</span></code></a>.</p></li>
+<li><p><a class="reference external" href="https://vu-live.zoom.us/rec/share/wqlOYBYlT9Thx71SlYmWNFpG6PH9Udazx05jkoLaVtARyFBaeMp-dF8f2vKV_5hc.i0WVLiMZXml4vlF3">Zoom recording</a> (Passcode: S6qD8tE^)</p></li>
+</ul>
+</li>
+<li><p><strong>2. Host Interfacing and Software Implications:</strong> NVMe, storage and block-layer optimizations (multi queue design).</p>
+<ul>
+<li><p><a class="reference download internal" download="" href="../_downloads/8f6ce7f87e81ffdc1c63c4e3a9dcf265/2023-stosys-lecture2-sw-nvme-sw-implications.pdf"><code class="xref download docutils literal notranslate"><span class="pre">2023-stosys-lecture2-sw-nvme-sw-implications.pdf</span></code></a>.</p></li>
+<li><p><a class="reference external" href="https://vu-live.zoom.us/rec/share/a9xfK8FzvmmSg-fq4g5O9i__teZoD5PTCYz62cJfxuZhpiQMQ9mrnwjXA1ps3yJf.0a4bvN-Sh-q35FTf%20">Zoom recording</a> (Passcode: S6qD8tE^)</p></li>
+</ul>
+</li>
+<li><p><strong>3. Flash FTL and Garbage Collection:</strong> FTL and GC designs, concerns, and host-managed FTLs.</p>
+<ul>
+<li><p><a class="reference download internal" download="" href="../_downloads/83a37dbcedf5753043761d666a01bf89/2023-stosys-lecture3-ftl-gc.pdf"><code class="xref download docutils literal notranslate"><span class="pre">2023-stosys-lecture3-ftl-gc.pdf</span></code></a>.</p></li>
+<li><p><a class="reference external" href="https://vu-live.zoom.us/rec/share/cDnQzcpKSVqSnqCgX23BXk6-q1qna_Ql7JKP0WOr244dvojUzWigvlHrq14lQFrY.zwFDzClg0yUD2rgr">Zoom recording</a> (Passcode: S6qD8tE^)</p></li>
+</ul>
+</li>
+<li><p><strong>4. Flash Filesystems:</strong> Log-structured file systems, F2FS, DFS, and Nameless writes.</p>
+<ul>
+<li><p><a class="reference download internal" download="" href="../_downloads/32e14293c0fa45246092f84ae426f993/2023-stosys-lecture4-fs.pdf"><code class="xref download docutils literal notranslate"><span class="pre">2023-stosys-lecture4-fs.pdf</span></code></a>.</p></li>
+<li><p><a class="reference external" href="https://vu-live.zoom.us/rec/share/4zFZ2NvZ0sQKgWObWIyP7ibQBANWDE-fEMaUHcLY_z97OBKwFGMKpOLiJAA7S1Gw.hX-T0iwkSIxTdh3O">Zoom recording</a> (Passcode: S6qD8tE^)</p></li>
+</ul>
+</li>
+<li><p><strong>5. Flash KV Stores:</strong> B+ Trees, Hash Tables, and LSM trees on flash (LOCS, WiscKey, uTree, SILK).</p>
+<ul>
+<li><p><a class="reference download internal" download="" href="../_downloads/63c1a7dde37771c9c70d6247a64d0dfc/2023-stosys-lecture5-kv.pdf"><code class="xref download docutils literal notranslate"><span class="pre">2023-stosys-lecture5-kv.pdf</span></code></a>.</p></li>
+<li><p><a class="reference external" href="https://vu-live.zoom.us/rec/share/BdJ9xwTw5DULRstccvb1mw7cOWcxgjZEAV3-20t4CDeE62nMlV_Cxu73LX6_3U7v.6ZblWia-_ilHnnHW">Zoom recording</a> (Passcode: S6qD8tE^)</p></li>
+</ul>
+</li>
+<li><p><strong>6. Byte-addressable Persistent Memories:</strong> Optane, NVHeap, and Pmem/PMDK project.</p>
+<ul>
+<li><p><a class="reference download internal" download="" href="../_downloads/a6309f61c3ed95833663c4e571f601de/2023-stosys-lecture6-pmem.pdf"><code class="xref download docutils literal notranslate"><span class="pre">2023-stosys-lecture6-pmem.pdf</span></code></a>.</p></li>
+<li><p><a class="reference external" href="https://vu-live.zoom.us/rec/share/WVDRixSb54_Le2JlxLobSPQoetIoGKfIcwyE-7j2FAKHlrfWp9t_ZrjDljKJvH1N.c0dZQsBJx4fR1YZM">Zoom recording</a> (Passcode: S6qD8tE^)</p></li>
+</ul>
+</li>
+<li><p><strong>7. Networked Flash:</strong> Disaggregated storage, NVMoF, Disaggregated Flash, and FlashNet.</p>
+<ul>
+<li><p><a class="reference download internal" download="" href="../_downloads/9f7331b5810ccffa019c87fc118acba8/2023-stosys-lecture7-networked-flash.pdf"><code class="xref download docutils literal notranslate"><span class="pre">2023-stosys-lecture7-networked-flash.pdf</span></code></a>.</p></li>
+<li><p><a class="reference external" href="https://vu-live.zoom.us/rec/share/O1U7D4Z9I6RrghjRDnKNHY-GPod-t4WDiXkdXVxelhIuMNCdRELiiA9xKx4OsoF8.lIi4kc3phcfoEMJ_">Zoom recording</a> (Passcode: S6qD8tE^)</p></li>
+</ul>
+</li>
+<li><p><strong>8. Programmable Storage:</strong> What is CSD, Willow, Biscuit, INSIDER.</p>
+<ul>
+<li><p><a class="reference download internal" download="" href="../_downloads/eb5873eb5aceb80b62faee236bb79b30/2023-stosys-lecture8-programmable-storage.pdf"><code class="xref download docutils literal notranslate"><span class="pre">2023-stosys-lecture8-programmable-storage.pdf</span></code></a>.</p></li>
+<li><p><a class="reference external" href="https://vu-live.zoom.us/rec/share/9-2wOgCJE88avw89VZXUjlegrnRPqAyfJhNlUuhQcLH1U03U6p287Hbcf3YYquUY.6o98UX6oqwiJF4W7">Zoom recording</a> (Passcode: S6qD8tE^)</p></li>
+</ul>
+</li>
+<li><p><strong>9. Distributed Storage - I:</strong> Distributed temporary data storage and formats (Crail and Albis).</p>
+<ul>
+<li><p><a class="reference download internal" download="" href="../_downloads/ecf0aac1ca5099893c2069bfd987b1d5/2023-stosys-lecture9-ds1.pdf"><code class="xref download docutils literal notranslate"><span class="pre">2023-stosys-lecture9-ds1.pdf</span></code></a>.</p></li>
+<li><p><a class="reference external" href="https://vu-live.zoom.us/rec/share/30v-3tYCD1n26Up9ooz4nFioANI_U2O1QU0miPdVgULb0GQaGfKJ35zDouhXAnr5.cmvUXWb_eGFLyWgl">Zoom recording</a> (Passcode: S6qD8tE^)</p></li>
+</ul>
+</li>
+<li><p><strong>10. Distributed Storage - II:</strong> Talks about Corfu and Tango distributed transaction systems.</p>
+<ul>
+<li><p><a class="reference download internal" download="" href="../_downloads/1857bc00b4d00c0aa2d83d74d395e2e8/2023-stosys-lecture10-ds2.pdf"><code class="xref download docutils literal notranslate"><span class="pre">2023-stosys-lecture10-ds2.pdf</span></code></a>.</p></li>
+<li><p><a class="reference external" href="https://vu-live.zoom.us/rec/share/n5A8tEsL8NdlgTivrIxDV000gydKmvGaWpvsTdDfb86wky8B68t7ckGbW8tw9vn8.7mv5o583nISoMpp4">Zoom recording</a> (Passcode: S6qD8tE^)</p></li>
+</ul>
+</li>
+<li><p><strong>11. Emerging Topics:</strong>  CXL and io_uring</p>
+<ul>
+<li><p><a class="reference download internal" download="" href="../_downloads/d150604b4d7f38921913c727be7dbdef/2023-stosys-lecture11-emerging-topics.pdf"><code class="xref download docutils literal notranslate"><span class="pre">2023-stosys-lecture11-emerging-topics.pdf</span></code></a>.</p></li>
+<li><p><a class="reference external" href="https://vu-live.zoom.us/rec/share/oNd7qMQOT9NIQ6sBg_wdGhv5-iCrUxe83rbqPmcmnJnMROYaVIPcjuQxBzBtBDvi.NL6M1H4irPLGbKct">Zoom recording</a> (Passcode: S6qD8tE^)</p></li>
+</ul>
+</li>
+</ul>
+</section>
+<section id="practical-work">
+<h2>Practical Work<a class="headerlink" href="#practical-work" title="Link to this heading"></a></h2>
+<p>For the practical work, students develop an NVM flash translation layer FTL (the essential part of any modern NVM storage device) for NVMe ZNS devices, and integrate a file system in RocksDB. There are five milestone in the practical work:</p>
+<blockquote>
+<div><ol class="arabic simple">
+<li><p><strong>A new device is in town</strong> - setup the development environment with ZNS devices in QEMU and read the NVMe 1.4 and ZNS specifications, and test the nvme command to interact with nvme devices.</p></li>
+<li><p><strong>I can’t read, is there a translator here?</strong> - implement a host-side hybrid log-data FTL. The log segment is page-mapped, while the data-segment is zone-mapped. No GC at this stage.</p></li>
+<li><p><strong>It’s 2023, we recycle</strong> - implement a choice of garbage collection algorithm for your FTL.</p></li>
+<li><p><strong>We love Rock(sDB) ‘n’ Roll!</strong> - design and implement a file system on top of your FTL and integrate it with the RocksDB FileSystem API.</p></li>
+<li><p><strong>Wake up, Neo</strong> - the last milestone requires you to persist and restart your FTL and filesystem states and pass the RocksDB persistency tests.</p></li>
+</ol>
+</div></blockquote>
+<p>The project handbook is publicly available here <a class="reference download internal" download="" href="../_downloads/8191069863b083f4fdae7c8afa21f512/2023-2024-stosys-handbook-4.0.pdf"><code class="xref download docutils literal notranslate"><span class="pre">2023-2024-stosys-handbook-4.0.pdf</span></code></a>. Drop me an email if you want access to more project related resources.</p>
+</section>
+<section id="license">
+<h2>License<a class="headerlink" href="#license" title="Link to this heading"></a></h2>
+<p>This course content are distributed under the Creative Commons Attribution 4.0 International
+(CC BY 4.0): <a class="reference external" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a>.</p>
+<p>Feel free to modify and use the slides in your course as you see fit with attribution.</p>
+</section>
+<section id="acknowledgement">
+<h2>Acknowledgement<a class="headerlink" href="#acknowledgement" title="Link to this heading"></a></h2>
+<p>The project work is generously supported by Western Digital with their donation of ZNS devices and software support.</p>
+</section>
 </section>
 
 
