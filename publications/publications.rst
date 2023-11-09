@@ -113,47 +113,47 @@ We are working towards making this list complete, meanwhile please see Animesh's
 2018
 *************
 
-* **Albis: High-Performance File Format for Big Data Systems**, Animesh Trivedi, Patrick Stuedi, Jonas Pfefferle, Adrian Schuepbach, Bernard Metzler, 
-  Proceedings of the *2018 USENIX Annual Technical Conference (USENIX ATC 18)*, Boston, MA, USA, July 2018. 
-  https://dl.acm.org/doi/10.5555/3277355.3277415
-  :download:`PDF <pdfs/2018-atc-Albis: High-Performance File Format for Big Data Systems.pdf>`. 
+  * **Albis: High-Performance File Format for Big Data Systems**, Animesh Trivedi, Patrick Stuedi, Jonas Pfefferle, Adrian Schuepbach, Bernard Metzler, 
+    Proceedings of the *2018 USENIX Annual Technical Conference (USENIX ATC 18)*, Boston, MA, USA, July 2018. 
+    https://dl.acm.org/doi/10.5555/3277355.3277415
+    :download:`PDF <pdfs/2018-atc-Albis: High-Performance File Format for Big Data Systems.pdf>`. 
 
 
-* **FlashNet: Flash/Network Stack Co-Design**, Animesh Trivedi, Nikolas Ioannou, Bernard Metzler, Patrick Stuedi, Jonas Pfefferle, Kornilios Kourtis, Ioannis Koltsidas, Thomas R. Gross, 
-  *ACM Transactions on Storage (ToS), Volume 14*, 4, Article 30, December 2018.
-  https://dl.acm.org/doi/10.1145/3239562.
-  :download:`PDF <pdfs/2018-tos-FlashNet: Flash-Network Stack Co-Design.pdf>`. 
+  * **FlashNet: Flash/Network Stack Co-Design**, Animesh Trivedi, Nikolas Ioannou, Bernard Metzler, Patrick Stuedi, Jonas Pfefferle, Kornilios Kourtis, Ioannis Koltsidas, Thomas R. Gross, 
+    *ACM Transactions on Storage (ToS), Volume 14*, 4, Article 30, December 2018.
+    https://dl.acm.org/doi/10.1145/3239562.
+    :download:`PDF <pdfs/2018-tos-FlashNet: Flash-Network Stack Co-Design.pdf>`. 
 
-* **Pocket: Ephemeral Storage for Serverless Analytics**, Ana Klimovic, Yawen Wang, Christos Kozyrakis, Patrick Stuedi, Animesh Trivedi, Jonas Pfefferle, 
-  Proceedings of the *13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2018)*, Carlsbad, CA, USA, October 2018.
-  https://dl.acm.org/doi/10.5555/3291168.3291200
-  :download:`PDF <pdfs/2018-osdi-Pocket: Elastic Ephemeral Storage for Serverless Analytics.pdf>`. 
+  * **Pocket: Ephemeral Storage for Serverless Analytics**, Ana Klimovic, Yawen Wang, Christos Kozyrakis, Patrick Stuedi, Animesh Trivedi, Jonas Pfefferle, 
+    Proceedings of the *13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2018)*, Carlsbad, CA, USA, October 2018.
+    https://dl.acm.org/doi/10.5555/3291168.3291200
+    :download:`PDF <pdfs/2018-osdi-Pocket: Elastic Ephemeral Storage for Serverless Analytics.pdf>`. 
 
 
-* **Understanding Ephemeral Storage for Serverless Analytics**, Ana Klimovic, Yawen Wang, Christos Kozyrakis, Patrick Stuedi, Jonas Pfefferle, Animesh Trivedi, 
-  Proceedings of the *2018 USENIX Annual Technical Conference (USENIX ATC 18)*, Boston, MA, USA, July 2018. 
-  https://dl.acm.org/doi/10.5555/3277355.3277431
-  :download:`PDF <pdfs/2018-atc-Understanding Ephemeral Storage for Serverless Analytics.pdf>`. 
+  * **Understanding Ephemeral Storage for Serverless Analytics**, Ana Klimovic, Yawen Wang, Christos Kozyrakis, Patrick Stuedi, Jonas Pfefferle, Animesh Trivedi, 
+    Proceedings of the *2018 USENIX Annual Technical Conference (USENIX ATC 18)*, Boston, MA, USA, July 2018. 
+    https://dl.acm.org/doi/10.5555/3277355.3277431
+    :download:`PDF <pdfs/2018-atc-Understanding Ephemeral Storage for Serverless Analytics.pdf>`. 
 
 
 *************
 2017
 *************
- * **FlashNet: Flash/Network Stack Co-Design**, 
-    Animesh Trivedi, Nikolas Ioannou, Bernard Metzler, Patrick Stuedi, Jonas Pfefferle, Ioannis Koltsidas, Kornilios Kourtis, Thomas R. Gross. 
-    Proceedings of the *10th ACM International Systems and Storage Conference (SYSTOR’17)*, Haifa, Israel, May, 2017. (**Best paper award**).
-    https://dl.acm.org/doi/10.1145/3078468.3078477
-    :download:`PDF <pdfs/2017-systor-FlashNet: Flash Network Stack Co-Design.pdf>`. 
+   * **FlashNet: Flash/Network Stack Co-Design**, 
+      Animesh Trivedi, Nikolas Ioannou, Bernard Metzler, Patrick Stuedi, Jonas Pfefferle, Ioannis Koltsidas, Kornilios Kourtis, Thomas R. Gross. 
+      Proceedings of the *10th ACM International Systems and Storage Conference (SYSTOR’17)*, Haifa, Israel, May, 2017. (**Best paper award**).
+      https://dl.acm.org/doi/10.1145/3078468.3078477
+      :download:`PDF <pdfs/2017-systor-FlashNet: Flash Network Stack Co-Design.pdf>`. 
 
 
 *************
 2016
 *************
-  * **On The [Ir]relevance of Network Performance for Data Processing**, 
-    Animesh Trivedi, Patrick Stuedi, Jonas Pfefferle, Radu Stoica, Bernard Metzler, Ioannis Koltsidas, Nikolas Ioannou. 
-    Proceedings of the *8th USENIX Workshop on Hot Topics in Cloud Computing (HotCloud‘16)*, Denver, CO, USA, June, 2016.
-    https://dl.acm.org/doi/10.5555/3027041.3027062
-    :download:`PDF <pdfs/2016-hotcloud-On The [Ir]relevance of Network Performance for Data Processing.pdf>`. 
+    * **On The [Ir]relevance of Network Performance for Data Processing**, 
+      Animesh Trivedi, Patrick Stuedi, Jonas Pfefferle, Radu Stoica, Bernard Metzler, Ioannis Koltsidas, Nikolas Ioannou. 
+      Proceedings of the *8th USENIX Workshop on Hot Topics in Cloud Computing (HotCloud‘16)*, Denver, CO, USA, June, 2016.
+      https://dl.acm.org/doi/10.5555/3027041.3027062
+      :download:`PDF <pdfs/2016-hotcloud-On The [Ir]relevance of Network Performance for Data Processing.pdf>`. 
 
 *************
 2015
@@ -167,10 +167,10 @@ We are working towards making this list complete, meanwhile please see Animesh's
 2013
 *************
   * **On Limitations of Network Acceleration**, 
-    Animesh Trivedi, Bernard Metzler, Patrick Stuedi, and Thomas R. Gross. 
-    Proceedings of the *9th International Conference on emerging Networking EXperiments and Technologies (CoNEXT’13)*, Santa Barbara, CA, USA, December 2013.
-    https://dl.acm.org/doi/10.1145/2535372.2535412
-    :download:`PDF <pdfs/2013-conext-On Limitations of Network Acceleration.pdf>`. 
+      Animesh Trivedi, Bernard Metzler, Patrick Stuedi, and Thomas R. Gross. 
+      Proceedings of the *9th International Conference on emerging Networking EXperiments and Technologies (CoNEXT’13)*, Santa Barbara, CA, USA, December 2013.
+      https://dl.acm.org/doi/10.1145/2535372.2535412
+      :download:`PDF <pdfs/2013-conext-On Limitations of Network Acceleration.pdf>`. 
 
 
 *************
