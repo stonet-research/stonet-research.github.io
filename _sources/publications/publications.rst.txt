@@ -139,19 +139,13 @@ We are working towards making this list complete, meanwhile please see Animesh's
 *************
 2017
 *************
-   * **FlashNet: Flash/Network Stack Co-Design**, Animesh Trivedi, Nikolas Ioannou, Bernard Metzler, Patrick Stuedi, Jonas Pfefferle, Ioannis Koltsidas, Kornilios Kourtis, Thomas R. Gross. 
-      Proceedings of the *10th ACM International Systems and Storage Conference (SYSTOR’17)*, Haifa, Israel, May, 2017. (**Best paper award**).
-      https://dl.acm.org/doi/10.1145/3078468.3078477
-      :download:`PDF <pdfs/2017-systor-FlashNet: Flash Network Stack Co-Design.pdf>`. 
+   * **FlashNet: Flash/Network Stack Co-Design**, Animesh Trivedi, Nikolas Ioannou, Bernard Metzler, Patrick Stuedi, Jonas Pfefferle, Ioannis Koltsidas, Kornilios Kourtis, Thomas R. Gross. Proceedings of the *10th ACM International Systems and Storage Conference (SYSTOR’17)*, Haifa, Israel, May, 2017. (**Best paper award**). https://dl.acm.org/doi/10.1145/3078468.3078477 :download:`PDF <pdfs/2017-systor-FlashNet: Flash Network Stack Co-Design.pdf>`. 
 
 
 *************
 2016
 *************
-    * **On The [Ir]relevance of Network Performance for Data Processing**, Animesh Trivedi, Patrick Stuedi, Jonas Pfefferle, Radu Stoica, Bernard Metzler, Ioannis Koltsidas, Nikolas Ioannou. 
-      Proceedings of the *8th USENIX Workshop on Hot Topics in Cloud Computing (HotCloud‘16)*, Denver, CO, USA, June, 2016.
-      https://dl.acm.org/doi/10.5555/3027041.3027062
-      :download:`PDF <pdfs/2016-hotcloud-On The [Ir]relevance of Network Performance for Data Processing.pdf>`. 
+    * **On The [Ir]relevance of Network Performance for Data Processing**, Animesh Trivedi, Patrick Stuedi, Jonas Pfefferle, Radu Stoica, Bernard Metzler, Ioannis Koltsidas, Nikolas Ioannou. Proceedings of the *8th USENIX Workshop on Hot Topics in Cloud Computing (HotCloud‘16)*, Denver, CO, USA, June, 2016. https://dl.acm.org/doi/10.5555/3027041.3027062 :download:`PDF <pdfs/2016-hotcloud-On The [Ir]relevance of Network Performance for Data Processing.pdf>`. 
 
 *************
 2015
@@ -165,9 +159,9 @@ We are working towards making this list complete, meanwhile please see Animesh's
 2013
 *************
   * **On Limitations of Network Acceleration**, Animesh Trivedi, Bernard Metzler, Patrick Stuedi, and Thomas R. Gross. 
-      Proceedings of the *9th International Conference on emerging Networking EXperiments and Technologies (CoNEXT’13)*, Santa Barbara, CA, USA, December 2013.
-      https://dl.acm.org/doi/10.1145/2535372.2535412
-      :download:`PDF <pdfs/2013-conext-On Limitations of Network Acceleration.pdf>`. 
+    Proceedings of the *9th International Conference on emerging Networking EXperiments and Technologies (CoNEXT’13)*, Santa Barbara, CA, USA, December 2013.
+    https://dl.acm.org/doi/10.1145/2535372.2535412
+    :download:`PDF <pdfs/2013-conext-On Limitations of Network Acceleration.pdf>`. 
 
 
 *************
